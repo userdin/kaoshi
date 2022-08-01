@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-tabs": "/node-modules/uview-ui/components/u-tabs/u-tabs",
+    "home": "/components/Home/Home",
+    "news": "/components/News/News",
+    "count": "/components/Count/Count",
+    "price": "/components/Price/Price",
+    "shouji": "/components/shouji/shouji",
+    "zhibo": "/components/zhibket/zhibket"
+  }
+}
